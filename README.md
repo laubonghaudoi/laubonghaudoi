@@ -1,8 +1,8 @@
-### laubonghaudoi
+# laubonghaudoi 劉邦後代
 
-[![laubonghaudoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=laubonghaudoi&count_private=true&show_icons=true)](https://github.com/laubonghaudoi/github-readme-stats)
+I am the co-founder of CanCLID, a team dedicated to the infrastructure development of the Cantonese language. Please contact me if you are interested in joining our cause.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laubonghaudoi&layout=compact)](https://github.com/laubonghaudoi/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 ```text
