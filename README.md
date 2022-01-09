@@ -9,10 +9,10 @@ I am the co-founder of [CanCLID](https://github.com/CanCLID), a team dedicated t
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 55 mins   ██████████████░░░░░░░░░░░   56.52 % 
-Text         3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 % 
-CSV          1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript   7 hrs 44 mins   ██████████████░░░░░░░░░░░   55.80 % 
+Text         2 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 % 
+CSV          1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 <!--END_SECTION:waka-->
