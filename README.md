@@ -9,8 +9,6 @@ I am the co-founder of [CanCLID](https://github.com/CanCLID), a team dedicated t
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 37 mins
-
 TypeScript   6 hrs 9 mins    ████████████░░░░░░░░░░░░░   48.07 % 
 Text         1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 CSV          1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
