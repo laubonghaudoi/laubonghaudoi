@@ -10,12 +10,12 @@ I am the co-founder of [CanCLID](https://github.com/CanCLID), a team dedicated t
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 27 mins   ███████████████▓░░░░░░░░░   62.41 %
-TypeScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Python       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown     5 hrs 29 mins   ████████████████▒░░░░░░░░   65.22 %
+TypeScript   1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+JSON         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Python       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Text         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
