@@ -10,8 +10,7 @@ I am the co-founder of [CanCLID](https://github.com/CanCLID), a team dedicated t
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   52 mins         ███████████████████████▒░   92.70 %
-CSV        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
